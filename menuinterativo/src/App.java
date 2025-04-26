@@ -20,5 +20,6 @@ public class App {
 
         }while(resUsu == 1|| resUsu == 2);
 
+        scanner.close();
     }
 }
